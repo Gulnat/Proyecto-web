@@ -10,13 +10,9 @@ header {
 }
 .logo {
     background-color: white; 
-    width: 100%; 
+    width: 10rem; 
     padding: 10px; 
     padding-left: 30px;
-}
-.logo img {
-    height: 50px;
-    width: auto; 
 }
 nav {
     background-color: rgb(16, 134, 134);
